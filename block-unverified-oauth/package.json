@@ -1,0 +1,17 @@
+{
+  "name": "block-unverified-oauth",
+  
+  "version": "1.0.0",
+  
+
+  "main": "main.js",
+  
+
+  "type": "module",
+  
+
+  "dependencies": 
+  {
+    "node-appwrite": "^13.0.0"
+  }
+}
